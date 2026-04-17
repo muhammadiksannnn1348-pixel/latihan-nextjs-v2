@@ -47,7 +47,7 @@ export default function MediaSection() {
                 <h4 className="text-xl font-semibold">Videp Responsive Youtube</h4>
                 <div className="aspect-video w-full">
                     <iframe 
-                        src="https://www.youtube.com/embed/szht9RG3VoY" 
+                        src="https://www.youtube.com/embed/SUs2ABaHnLU?si=TWCWwo4knp2KFD9c"
                         className="w-full h-full rounded-lg shadow-xl"
                         allowFullScreen
                         ></iframe>
